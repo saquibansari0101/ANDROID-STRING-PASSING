@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StringPassing</string>
+    <string name="text_header">Message Recieved</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Recieved</string>
+</resources>
