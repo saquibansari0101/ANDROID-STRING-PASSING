@@ -23,16 +23,20 @@ I wanted to make an app to learn how to pass data between two activities in Andr
   alt="Home Screen"
   style="float: left; margin-right: 10px;"
   width="200"/>
-  <img src="screenshots/2.SendingStrong.jpg"
-  alt="Home Screen"
+  <img src="screenshots/2.SendingString.jpg"
+  alt="Sending String"
   style="float: left; margin-right: 10px;"
   width="200"/>
   <img src="screenshots/3.StringRecievedOnSecond.jpg"
-  alt="Home Screen"
+  alt="String Recieved On Second"
   style="float: left; margin-right: 10px;"
   width="200"/>
   <img src="screenshots/4.ReplyingToFirstActivity.jpg"
-  alt="Home Screen"
+  alt="Replying To First Activity"
+  style="float: left; margin-right: 10px;"
+  width="200"/>
+  <img src="screenshots/5.ReplyRecieved.jpg"
+  alt="ReplyRecieved"
   style="float: left; margin-right: 10px;"
   width="200"/>
 
