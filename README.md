@@ -18,5 +18,11 @@ I wanted to make an app to learn how to pass data between two activities in Andr
 - How to start an Activity with an explicit Intent.
 - How to pass data between each Activity with an explicit Intent.
 
+## Screens
+<img src="screenshots/1.App.jpg"
+  alt="Home Screen"
+  style="float: left; margin-right: 10px;"
+  width="200"/>
+
 
 >This is a companion project to GOOGLE CODELAB's Android fundamentals 02.
