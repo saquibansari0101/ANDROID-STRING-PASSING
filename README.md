@@ -13,7 +13,6 @@ I wanted to make an app to learn how to pass data between two activities in Andr
 - Observe the state changes as the app runs and as I interact with each Activity in I app.
 - Modify app to retain the instance state of an Activity that is unexpectedly recreated in response to user behavior or configuration change on the device.
 
-
 ## What I have learned
 
 - How to create a new Activity in Android Studio.
